@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(202, 229, 244);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+.nav {
+  background-color: rgb(255, 164, 148);
+  padding: 10px 10px 5px 5px;
+  margin: 5px;
+  border-radius: 2;
+  width: 20%;
+}
+
+li.nav {
+  text-align: center;
+}
